@@ -1,4 +1,12 @@
 # Satellite Self-Supervised Learning with SimCLR
+## Training Curves
+
+![Training Curves](satellite-ssl/outputs/training_curves.png)
+
+## Feature Embedding Visualization (t-SNE)
+
+![t-SNE Visualization](satellite-ssl/outputs/tsne_visualization.png)
+
 
 **Learn powerful representations from unlabeled satellite imagery using contrastive learning**
 
@@ -132,3 +140,5 @@ A: `features = model.get_features(images)` → 2048-dim vectors ready for downst
 
 **Q: Training too slow?**  
 A: Reduce batch size → reduce image size → use Google Colab GPU
+
+
