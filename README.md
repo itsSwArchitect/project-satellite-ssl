@@ -46,11 +46,6 @@ chmod +x scripts/run_experiment.sh
 ./scripts/run_experiment.sh
 ```
 
-## Full Documentation
-
-- **[QUICK_START.md](QUICK_START.md)** — 5-minute setup & common tasks
-- **[PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md)** — Technical deep dive
-
 ## Project Structure
 
 ## How It Works
