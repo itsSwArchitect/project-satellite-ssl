@@ -1,4 +1,4 @@
-# 🛰️ Satellite Self-Supervised Learning with SimCLR
+# Satellite Self-Supervised Learning with SimCLR
 
 **Learn powerful representations from unlabeled satellite imagery using contrastive learning**
 
